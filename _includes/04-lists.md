@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- the internet
+- my cool tablet
+- my chair
+- this list
